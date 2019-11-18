@@ -1,0 +1,11 @@
+<!-- Trina Demo Launch File -->
+<!-- Written by Dan Oates (WPI Class of 2020) -->
+<launch>
+
+	<!-- Baxter Simulator Launch File -->
+	<include file="$(find baxter_gazebo)/launch/baxter_world.launch"/>
+	
+	<!-- Embedded Control Node -->
+	<node pkg="trina_demo" type="trina_demo.py" name="trina_demo" output="screen"/>
+
+</launch>

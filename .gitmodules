@@ -1,0 +1,15 @@
+[submodule "Firmware/lib/AS5048B"]
+	path = Firmware/lib/AS5048B
+	url = https://github.com/doates625/AS5048B.git
+[submodule "Firmware/lib/Platform"]
+	path = Firmware/lib/Platform
+	url = https://github.com/doates625/Platform.git
+[submodule "Firmware/lib/I2CDevice"]
+	path = Firmware/lib/I2CDevice
+	url = https://github.com/doates625/I2CDevice.git
+[submodule "Firmware/lib/Struct"]
+	path = Firmware/lib/Struct
+	url = https://github.com/doates625/Struct.git
+[submodule "Firmware/lib/CppUtil"]
+	path = Firmware/lib/CppUtil
+	url = https://github.com/doates625/CppUtil.git
