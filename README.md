@@ -1,6 +1,9 @@
 # TRINA Baxter Embedded Sensor Control Demo
 Written by Dan Oates (WPI Class of 2020)
 
+## Introduction
+This project is a simple example of controlling Baxter through embedded sensors. It is a demonstration for the WPI HIRO Lab TRINA project. The presentation slides of the project can be found [here](https://docs.google.com/presentation/d/1mFjvhXUYx0AkFv7CDjJy63BiGeFIoDlWnft5e-sIHR4/edit?usp=sharing).
+
 ## Install Instructions
 These instructions are exclusively for ROS Kinetic on Ubuntu 16.04
 
